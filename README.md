@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am studying Cyber Security Level 4 (BSc) at Leeds Beckett University!
 <!--
 **Emilis753/Emilis753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
