@@ -1,9 +1,9 @@
-## Hi there 👋
-I am studying Cyber Security Level 4 (BSc) at Leeds Beckett University!
-I am also a first year student.
-One fun fact about me is that I used to play amateur table tennis when I was 11 years old.
-I'm intrested in gaming of course and UFC (Mixed Martial Arts).
-One of my goals is to travel the world. This is what I plan to do once I get my degree and secure a good job. :)
+## Hey there 👋
+- I am studying Cyber Security Level 4 (BSc) at Leeds Beckett University!
+- I am also a first year student.
+- One fun fact about me is that I used to play amateur table tennis when I was 11 years old.
+- I'm intrested in gaming of course and UFC (Mixed Martial Arts).
+- One of my goals is to travel the world. This is what I plan to do once I get my degree and secure a good job. :)
 
 <!--
 **Emilis753/Emilis753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
